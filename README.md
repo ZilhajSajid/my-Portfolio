@@ -2,7 +2,7 @@ My Portfolio 🚀
 This is my personal portfolio website, designed and developed to showcase my skills, projects, and professional experiences. Built with React.js, this website highlights my work, educational background, internship experience, and provides my contact information. It serves as a one-stop place for potential employers, collaborators, and anyone interested in learning more about me and my work.
 
 🔗 You can view the live version of my portfolio here:
-Live Demo
+[Live Demo](https://my-portfolio-eight-liart-27.vercel.app/)
 
 Table of Contents 📚
 Technologies Used
